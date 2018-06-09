@@ -1,0 +1,29 @@
+{
+  "name": "bo0strap4",
+  "version": "1.0.0",
+  "description": "\"This is bootsrap project , my second new repositry creation\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://amoshung@bitbucket.org/amoshung/bootstrap-4.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Amos Hung",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/amoshung/bootstrap-4#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "4": "0.0.0",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.0.0"
+  }
+}
