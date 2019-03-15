@@ -19,7 +19,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/amoshung/bootstrap-4#readme",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.4.0"
   },
   "dependencies": {
     "4": "0.0.0",
